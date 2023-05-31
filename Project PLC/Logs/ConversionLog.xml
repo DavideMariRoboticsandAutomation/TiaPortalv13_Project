@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="lavoraManualeArriviAutomaticiConHMI_V13_SP1" typeText="Tipo" messageText="Messaggio" timeText="Ora">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:42:42">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento avviato" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:42:42">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Lettura in corso delle informazioni della versione precedente del progetto/della biblioteca." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:42:47">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento in corso del nuovo progetto/della nuova biblioteca." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:42:49">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento in corso del nuovo progetto/della nuova biblioteca." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="27/11/2019 21:42:51" Debug="false">
+    <Text>La conversione del programma S7 per la CPU "PLC_1" è in preparazione.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="27/11/2019 21:42:51" Debug="false">
+    <Text>Conversione terminata.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="27/11/2019 21:42:52" Debug="false">
+    <Text>Il programma S7 viene convertito per la CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="27/11/2019 21:43:00" Debug="false">
+    <Text>Conversione terminata.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:43:01">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento in corso del nuovo progetto/della nuova biblioteca." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="27/11/2019 21:43:01">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Salvataggio in corso del progetto aggiornato/della biblioteca aggiornata." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="27/11/2019 21:43:01">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Il progetto 'lavoraManualeArriviAutomaticiConHMI' è stato aggiornato e salvato come progetto 'lavoraManualeArriviAutomaticiConHMI_V13_SP1'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
